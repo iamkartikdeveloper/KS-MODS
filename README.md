@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/kartik-sharma-b0b61b383" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/KS-SHARMA118629" target="_blank">
+<a href="https://github.com/iamkartikdeveloper" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/kartik_sharma_2c1249e3adc" target="_blank">
